@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "savvy-enly",
+    "default": "savvy-enly"
+  }
+}
